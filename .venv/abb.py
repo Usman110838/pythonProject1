@@ -1,3 +1,3 @@
-print("hellow")
-print("Bye world")
-print("Bye world")
+print("llow")
+print("llo rld")
+print("ello world")
